@@ -1,0 +1,241 @@
+﻿Project ID,Expected Award Date, Project Value ,Status,Customer,Customer Country,Competitor,Business Segment,Budget Project
+100001,31/12/2017," 4,500 ",Negotiation,Customer X,Brazil,,Utility,No
+100002,30/09/2017," 1,500 ",Pursuit,Customer Y,Malaysia,,Utility,Yes
+100003,31/03/2017," 150,000 ",Won,Customer Z,Finland,ABB,Transportation,No
+100004,30/09/2017," 100,000 ",Lead,Customer Z,Finland,,Industry,No
+100005,31/03/2016," 70,000 ",Lost,Customer Y,Finland,Competitor A,Utility,Yes
+100006,30/06/2017," 150,000 ",Lost,Customer X,Turkey,Competitor C,Transportation,No
+100007,30/06/2016," 200,000 ",Lost,Customer X,Switzerland,Competitor B,Transportation,Yes
+100008,30/09/2016," 110,000 ",Lost,Customer X,Finland,Competitor A,Utility,No
+100009,31/12/2017," 100,000 ",Negotiation,Customer X,Russian Federation,,Transportation,No
+100010,31/12/2017," 70,000 ",Negotiation,Customer X,Australia,,Transportation,No
+100011,31/12/2016," 100,000 ",Lost,Customer X,Portugal,Competitor C,Utility,No
+100012,30/09/2017," 150,000 ",Pursuit,Customer X,Kuwait,,Transportation,No
+100013,30/09/2017," 70,000 ",Lead,Customer X,Dominican Republic,,Industry,Yes
+100014,30/06/2016," 100,000 ",Cancelled,Customer X,Brazil,,Utility,No
+100015,31/03/2017," 150,000 ",Won,Customer X,Australia,ABB,Transportation,No
+100016,30/06/2016," 200,000 ",Lost,Customer X,Australia,Competitor B,Utility,No
+100017,31/12/2016," 140,000 ",Lost,Customer X,Brazil,Competitor C,Utility,Yes
+100018,30/06/2017," 140,000 ",Lost,Customer X,Brazil,Competitor A,Utility,No
+100019,30/06/2017," 120,000 ",Lost,Customer X,Finland,Competitor C,Industry,No
+100020,31/12/2016," 150,000 ",Negotiation,Customer X,Finland,,Transportation,No
+100021,31/03/2016," 2,000 ",Won,Customer X,Finland,ABB,Industry,No
+100022,31/12/2016," 2,000 ",Won,Customer Y,Singapore,ABB,Industry,No
+100023,31/12/2016," 1,000,000 ",Won,Customer Y,Brazil,ABB,Industry,No
+100024,30/09/2017," 2,000 ",Lead,Customer Y,Portugal,,Utility,No
+100025,30/09/2017," 5,000 ",Negotiation,Customer Y,Estonia,,Utility,Yes
+100026,30/09/2017," 70,000 ",Negotiation,Customer Y,Australia,,Utility,No
+100027,31/12/2017," 30,000 ",Cancelled,Customer X,Finland,,Utility,No
+100028,31/03/2016," 150,000 ",Won,Customer X,Finland,ABB,Utility,No
+100029,31/03/2016," 4,000 ",Won,Customer X,Sweden,ABB,Utility,No
+100030,31/12/2017," 650,000 ",Pursuit,Customer X,Australia,,Utility,No
+100031,30/06/2017," 20,000 ",Won,Customer X,Brazil,ABB,Industry,No
+100032,31/03/2017," 500,000 ",Won,Customer X,Singapore,ABB,Industry,Yes
+100033,30/06/2017," 3,000 ",Won,Customer X,Norway,ABB,Industry,No
+100034,30/09/2017," 380,000 ",Pursuit,Customer Y,Turkey,,Transportation,No
+100035,30/06/2016," 500,000 ",Lost,Customer Y,Finland,Competitor C,Transportation,No
+100036,30/06/2016," 390,000 ",Lost,Customer Y,Turkey,Competitor C,Transportation,No
+100037,31/12/2017," 100,000 ",Pursuit,Customer Y,Finland,,Industry,No
+100038,31/03/2016," 70,000 ",Lost,Customer Z,Portugal,Competitor A,Utility,No
+100039,31/03/2016," 70,000 ",Lost,Customer Z,Russian Federation,Competitor C,Transportation,No
+100040,31/03/2016," 7,000 ",Lead,Customer Z,Sweden,,Transportation,Yes
+100041,30/06/2017," 100,000 ",Negotiation,Customer Z,Nigeria,,Utility,No
+100042,30/06/2017," 100,000 ",Cancelled,Customer Z,Singapore,,Transportation,No
+100043,30/09/2016," 100,000 ",Won,Customer Y,Netherlands,ABB,Utility,No
+100044,31/03/2017," 130,000 ",Won,Customer X,Czech Republic,ABB,Transportation,No
+100045,30/09/2017," 130,000 ",Lead,Customer X,Norway,,Industry,No
+100046,30/09/2017," 200,000 ",Lead,Customer X,Finland,,Utility,No
+100047,30/09/2017," 100,000 ",Lead,Customer X,Kuwait,,Transportation,No
+100048,31/12/2017," 70,000 ",Cancelled,Customer X,Kuwait,,Industry,No
+100049,31/12/2017," 50,000 ",Negotiation,Customer X,Colombia,,Industry,Yes
+100050,30/06/2016," 70,000 ",Won,Customer Y,Kuwait,ABB,Utility,No
+100051,31/03/2016," 130,000 ",Lost,Customer X,Kuwait,Competitor C,Industry,No
+100052,31/03/2016," 130,000 ",Lost,Customer X,Kuwait,Competitor C,Utility,Yes
+100053,31/03/2016," 70,000 ",Lost,Customer Y,Kuwait,Competitor A,Utility,No
+100054,31/03/2017," 50,000 ",Lost,Customer X,Finland,Competitor C,Utility,No
+100055,31/03/2017," 400,000 ",Lost,Customer X,Sweden,Competitor B,Utility,No
+100056,31/03/2016," 450,000 ",Cancelled,Customer X,Singapore,,Industry,No
+100057,30/09/2017," 450,000 ",Negotiation,Customer X,Czech Republic,,Industry,Yes
+100058,30/09/2016," 450,000 ",Cancelled,Customer X,Australia,,Industry,No
+100059,30/06/2017," 450,000 ",Cancelled,Customer X,Singapore,,Industry,No
+100060,30/06/2017," 450,000 ",Cancelled,Customer Z,Malaysia,,Transportation,No
+100061,30/06/2017," 400,000 ",Lost,Customer Y,Sweden,Competitor A,Utility,No
+100062,30/09/2016," 19,000 ",Lost,Customer Z,Russian Federation,Competitor A,Utility,No
+100063,30/09/2016," 50,000 ",Cancelled,Customer Z,Sweden,,Transportation,No
+100064,30/09/2017," 400,000 ",Negotiation,Customer X,Italy,,Transportation,No
+100065,31/03/2017," 450,000 ",Cancelled,Customer Y,Sweden,,Utility,No
+100066,31/03/2017," 450,000 ",Won,Customer Z,Sweden,ABB,Industry,No
+100067,31/12/2016," 450,000 ",Won,Customer Z,Sweden,ABB,Industry,Yes
+100068,31/12/2017," 450,000 ",Negotiation,Customer Y,Sweden,,Utility,No
+100069,30/09/2017," 450,000 ",Cancelled,Customer Z,Qatar,,Industry,No
+100070,31/12/2016," 400,000 ",Won,Customer X,Turkey,ABB,Utility,No
+100071,31/03/2016," 19,000 ",Won,Customer X,Malaysia,ABB,Industry,No
+100072,30/06/2017," 50,000 ",Cancelled,Customer X,Malaysia,,Utility,No
+100073,31/03/2017," 5,000 ",Cancelled,Customer X,Spain,,Industry,No
+100074,31/03/2017," 120,000 ",Lost,Customer Y,Sweden,Competitor C,Utility,No
+100075,31/12/2017," 80,000 ",Pursuit,Customer X,Romania,,Industry,No
+100076,31/12/2017," 53,000 ",Negotiation,Customer X,Sweden,,Utility,Yes
+100077,31/12/2017," 30,000 ",Negotiation,Customer X,Sweden,,Industry,No
+100078,30/09/2017," 4,500 ",Pursuit,Customer Y,Finland,,Industry,No
+100079,31/12/2016," 4,500 ",Lost,Customer X,Australia,Competitor A,Utility,No
+100080,31/03/2016," 4,500 ",Lost,Customer X,Kuwait,Competitor B,Utility,Yes
+100081,31/03/2017," 4,500 ",Lost,Customer X,Kuwait,Competitor A,Industry,No
+100082,30/09/2017," 580,000 ",Pursuit,Customer X,Morocco,,Industry,No
+100083,30/09/2017," 900,000 ",Pursuit,Customer Z,China,,Utility,Yes
+100084,30/09/2017," 500,000 ",Cancelled,Customer Z,Indonesia,,Industry,No
+100085,31/03/2016," 150,000 ",Cancelled,Customer Y,Kuwait,,Industry,No
+100086,30/06/2016," 20,000 ",Cancelled,Customer Z,Turkey,,Utility,No
+100087,30/06/2016," 3,000 ",Won,Customer Z,Malaysia,ABB,Transportation,No
+100088,31/03/2017," 90,000 ",Lead,Customer Y,Finland,,Utility,No
+100089,30/09/2017," 310,000 ",Cancelled,Customer Z,Netherlands,,Transportation,No
+100090,30/06/2016," 320,000 ",Pursuit,Customer Y,Czech Republic,,Utility,Yes
+100091,30/06/2017," 650,000 ",Lost,Customer Z,Indonesia,Competitor B,Industry,No
+100092,30/06/2017," 420,000 ",Lost,Customer Y,Qatar,Competitor A,Industry,No
+100093,30/06/2016," 20,000 ",Lost,Customer Z,Morocco,Competitor A,Utility,Yes
+100094,30/09/2016," 300,000 ",Won,Customer X,Bosnia and Herzegovina,ABB,Transportation,No
+100095,31/03/2016," 100,000 ",Won,Customer Z,Netherlands,ABB,Utility,Yes
+100096,31/12/2017," 1,800 ",Cancelled,Customer Z,Saudi Arabia,,Utility,No
+100097,31/12/2017," 100,000 ",Lead,Customer Y,Namibia,,Utility,No
+100098,31/03/2016," 300,000 ",Won,Customer X,Finland,ABB,Utility,No
+100099,31/03/2016," 100,000 ",Won,Customer Y,Australia,ABB,Transportation,Yes
+100100,31/03/2017," 300,000 ",Won,Customer X,Turkey,ABB,Industry,No
+100101,31/03/2016," 100,000 ",Won,Customer X,Kuwait,ABB,Industry,No
+100102,30/06/2017," 100,000 ",Lost,Customer Y,Sweden,Competitor B,Utility,No
+100103,30/06/2017," 1,900 ",Lost,Customer X,France,Competitor A,Utility,No
+100104,30/09/2016," 200,000 ",Lost,Customer X,"Taiwan, Province of China",Competitor C,Utility,No
+100105,31/03/2017," 1,400 ",Lost,Customer X,Czech Republic,Competitor A,Utility,Yes
+100106,31/12/2016," 100,000 ",Lost,Customer Y,Iraq,Competitor C,Utility,No
+100107,30/09/2017," 300,000 ",Negotiation,Customer X,United States,,Industry,No
+100108,30/09/2016," 100,000 ",Lost,Customer X,Kuwait,Competitor B,Industry,Yes
+100109,31/12/2017," 5,000 ",Negotiation,Customer X,Italy,,Industry,No
+100110,30/09/2017," 300,000 ",Negotiation,Customer X,Finland,,Utility,No
+100111,31/03/2017," 100,000 ",Lost,Customer X,Australia,Competitor A,Industry,Yes
+100112,30/06/2016," 100,000 ",Lead,Customer Z,Iraq,,Transportation,No
+100113,31/03/2017," 300,000 ",Negotiation,Customer Z,Turkey,,Transportation,No
+100114,30/09/2017," 1,900 ",Lead,Customer Z,Turkey,,Transportation,No
+100115,30/06/2016," 300,000 ",Cancelled,Customer X,Saudi Arabia,,Utility,No
+100116,31/03/2017," 100,000 ",Lost,Customer X,Czech Republic,Competitor C,Transportation,Yes
+100117,30/06/2016," 1,800 ",Lost,Customer X,Italy,Competitor A,Utility,No
+100118,30/06/2017," 300,000 ",Lost,Customer Y,Italy,Competitor B,Utility,No
+100119,30/06/2017," 200,000 ",Lost,Customer Z,Sweden,Competitor A,Utility,No
+100120,31/03/2017," 300,000 ",Cancelled,Customer Y,Bulgaria,,Industry,No
+100121,30/09/2016," 200,000 ",Cancelled,Customer Y,Portugal,,Industry,No
+100122,30/09/2016," 100,000 ",Cancelled,Customer X,Sweden,,Industry,No
+100123,31/03/2017," 700,000 ",Won,Customer X,Sweden,ABB,Industry,No
+100124,30/09/2017," 1,800 ",Lead,Customer X,Saudi Arabia,,Transportation,Yes
+100125,30/09/2017," 300,000 ",Negotiation,Customer X,Singapore,,Utility,No
+100126,30/09/2017," 100,000 ",Negotiation,Customer Z,Saudi Arabia,,Utility,No
+100127,31/03/2016," 100,000 ",Won,Customer Z,Singapore,ABB,Utility,No
+100128,31/03/2016," 100,000 ",Won,Customer Y,Turkey,ABB,Utility,No
+100129,31/03/2017," 100,000 ",Won,Customer Z,Romania,ABB,Industry,No
+100130,31/03/2016," 300,000 ",Won,Customer Y,Finland,ABB,Industry,No
+100131,31/12/2016," 100,000 ",Won,Customer X,Australia,ABB,Industry,Yes
+100132,31/03/2017," 300,000 ",Won,Customer X,Saudi Arabia,ABB,Utility,No
+100133,31/03/2017," 100,000 ",Won,Customer X,Algeria,ABB,Industry,No
+100134,30/09/2017," 200,000 ",Pursuit,Customer X,Iraq,,Industry,No
+100135,30/09/2017," 100,000 ",Lead,Customer Z,Portugal,,Utility,No
+100136,30/06/2017," 300,000 ",Cancelled,Customer Y,Portugal,,Industry,No
+100137,30/06/2017," 100,000 ",Cancelled,Customer Y,Qatar,,Industry,No
+100138,30/06/2016," 700,000 ",Lost,Customer Y,Czech Republic,Competitor B,Utility,Yes
+100139,31/03/2017," 100,000 ",Lost,Customer Z,Malaysia,Competitor A,Utility,No
+100140,31/12/2016," 100,000 ",Lost,Customer Z,Sweden,Competitor C,Industry,No
+100141,31/03/2017," 300,000 ",Lost,Customer Y,Peru,Competitor C,Transportation,No
+100142,30/09/2017," 100,000 ",Lead,Customer Y,Azerbaijan,,Industry,No
+100143,30/06/2016," 300,000 ",Lost,Customer Z,Pakistan,Competitor A,Utility,Yes
+100144,31/03/2017," 700,000 ",Lost,Customer X,Finland,Competitor A,Utility,No
+100145,31/12/2017," 100,000 ",Lead,Customer X,Azerbaijan,,Industry,No
+100146,31/12/2017," 100,000 ",Lead,Customer X,Turkey,,Utility,No
+100147,31/12/2017," 600,000 ",Pursuit,Customer Z,Turkey,,Utility,No
+100148,31/03/2017," 100,000 ",Lost,Customer Z,Saudi Arabia,Competitor C,Utility,Yes
+100149,30/09/2016," 700,000 ",Lost,Customer Y,Germany,Competitor A,Transportation,No
+100150,30/06/2017," 100,000 ",Lost,Customer Z,Czech Republic,Competitor B,Transportation,No
+100151,30/06/2017," 700,000 ",Cancelled,Customer Z,Saudi Arabia,,Industry,No
+100152,30/06/2017," 100,000 ",Lost,Customer Y,Saudi Arabia,Competitor A,Utility,No
+100153,30/09/2016," 100,000 ",Lost,Customer Z,Netherlands,Competitor C,Utility,No
+100154,31/03/2017," 100,000 ",Lost,Customer Z,Kuwait,Competitor A,Utility,No
+100155,31/03/2017," 140,000 ",Lost,Customer X,Kuwait,Competitor C,Utility,Yes
+100156,31/03/2017," 300,000 ",Lost,Customer X,Malaysia,Competitor A,Utility,No
+100157,30/06/2016," 100,000 ",Won,Customer X,Saudi Arabia,ABB,Transportation,No
+100158,30/06/2016," 700,000 ",Cancelled,Customer Z,Sweden,,Transportation,No
+100159,31/12/2017," 300,000 ",Negotiation,Customer Z,Finland,,Transportation,No
+100160,30/09/2016," 300,000 ",Cancelled,Customer Y,Sweden,,Utility,No
+100161,31/03/2017," 100,000 ",Lost,Customer Y,Saudi Arabia,Competitor A,Industry,No
+100162,31/03/2017," 100,000 ",Lost,Customer Z,Argentina,Competitor B,Transportation,No
+100163,31/03/2017," 300,000 ",Lost,Customer X,Germany,Competitor A,Utility,No
+100164,31/03/2017," 200,000 ",Lost,Customer X,China,Competitor C,Transportation,No
+100165,31/12/2016," 100,000 ",Lost,Customer X,Czech Republic,Competitor A,Utility,No
+100166,31/12/2017," 100,000 ",Negotiation,Customer Z,Singapore,,Industry,No
+100167,30/06/2017," 700,000 ",Lost,Customer Y,Spain,Competitor B,Utility,No
+100168,30/06/2017," 300,000 ",Lost,Customer Z,Syrian Arab Republic,Competitor B,Industry,Yes
+100169,30/09/2016," 100,000 ",Lost,Customer Y,Czech Republic,Competitor C,Transportation,No
+100170,31/03/2016," 100,000 ",Lost,Customer Z,Finland,Competitor A,Utility,No
+100171,31/03/2017," 300,000 ",Lost,Customer X,Azerbaijan,Competitor C,Industry,Yes
+100172,31/03/2017," 8,000 ",Lost,Customer X,Kuwait,Competitor A,Utility,No
+100173,31/03/2017," 1,900 ",Lost,Customer Z,Italy,Competitor C,Utility,Yes
+100174,31/03/2016," 700,000 ",Lost,Customer X,Colombia,Competitor A,Transportation,No
+100175,31/03/2016," 300,000 ",Lost,Customer X,Kuwait,Competitor B,Transportation,No
+100176,31/03/2016," 100,000 ",Lead,Customer X,Colombia,,Utility,No
+100177,30/09/2016," 140,000 ",Negotiation,Customer X,Libya,,Industry,No
+100178,31/03/2017," 100,000 ",Won,Customer X,Finland,ABB,Industry,No
+100179,31/03/2017," 100,000 ",Cancelled,Customer Y,Finland,,Industry,No
+100180,31/03/2017," 100,000 ",Lost,Customer Z,Turkey,Competitor A,Industry,Yes
+100181,30/09/2016," 15,000 ",Lost,Customer Y,Turkey,Competitor A,Utility,No
+100182,30/06/2016," 5,000 ",Lost,Customer Y,Italy,Competitor B,Utility,No
+100183,31/12/2017," 15,000 ",Lead,Customer Z,Italy,,Industry,No
+100184,30/06/2017," 15,000 ",Won,Customer X,Singapore,ABB,Industry,No
+100185,30/09/2016," 12,000 ",Cancelled,Customer X,Sweden,,Utility,No
+100186,31/03/2017," 70,000 ",Cancelled,Customer X,Singapore,,Utility,No
+100187,30/06/2016," 50,000 ",Won,Customer X,Turkey,ABB,Utility,No
+100188,30/06/2016," 15,000 ",Won,Customer Z,Norway,ABB,Utility,No
+100189,31/03/2016," 15,000 ",Won,Customer Y,Sweden,ABB,Industry,Yes
+100190,31/03/2017," 30,000 ",Cancelled,Customer Z,Estonia,,Industry,No
+100191,30/06/2017," 120,000 ",Cancelled,Customer Z,Turkey,,Industry,No
+100192,31/03/2016," 50,000 ",Cancelled,Customer Y,Turkey,,Utility,No
+100193,31/12/2017," 50,000 ",Cancelled,Customer Z,Egypt,,Industry,No
+100194,30/06/2017," 50,000 ",Won,Customer Z,Egypt,ABB,Industry,No
+100195,31/03/2017," 20,000 ",Lost,Customer Y,Belgium,Competitor A,Utility,No
+100196,31/03/2016," 200,000 ",Lost,Customer X,Sweden,Competitor A,Utility,No
+100197,31/12/2016," 380,000 ",Lost,Customer X,India,Competitor C,Industry,Yes
+100198,31/12/2017," 50,000 ",Pursuit,Customer X,Sweden,,Industry,No
+100199,31/12/2017," 15,000 ",Pursuit,Customer Z,Thailand,,Industry,No
+100200,30/06/2016," 20,000 ",Lost,Customer Z,China,Competitor A,Industry,No
+100201,31/03/2017," 130,000 ",Lost,Customer X,"Korea, Republic of",Competitor C,Transportation,Yes
+100202,31/03/2017," 50,000 ",Lost,Customer X,Singapore,Competitor C,Industry,No
+100203,31/12/2016," 20,000 ",Lost,Customer X,Finland,Competitor A,Utility,No
+100204,30/06/2017," 20,000 ",Cancelled,Customer X,Norway,,Industry,No
+100205,30/06/2016," 50,000 ",Cancelled,Customer Z,Australia,,Industry,No
+100206,31/03/2017," 20,000 ",Lost,Customer X,Saudi Arabia,Competitor A,Transportation,No
+100207,31/03/2017," 15,000 ",Lost,Customer X,Portugal,Competitor B,Industry,No
+100208,31/03/2017," 15,000 ",Lead,Customer X,Portugal,,Transportation,No
+100209,30/06/2016," 130,000 ",Pursuit,Customer Z,Cambodia,,Transportation,No
+100210,30/06/2017," 15,000 ",Won,Customer Y,Norway,ABB,Transportation,Yes
+100211,30/06/2016," 5,000 ",Won,Customer Z,Norway,ABB,Transportation,No
+100212,31/12/2017," 5,000 ",Pursuit,Customer Y,Turkey,,Utility,No
+100213,30/09/2016," 550,000 ",Won,Customer Y,Sweden,ABB,Utility,Yes
+100214,31/03/2017," 500,000 ",Won,Customer X,Sweden,ABB,Utility,Yes
+100215,30/06/2017," 580,000 ",Won,Customer X,Sweden,ABB,Utility,No
+100216,30/06/2017," 20,000 ",Won,Customer Z,Sweden,ABB,Industry,No
+100217,31/12/2017," 650,000 ",Negotiation,Customer Z,Sweden,,Industry,Yes
+100218,31/03/2017," 290,000 ",Lead,Customer Y,United Arab Emirates,,Industry,No
+100219,31/12/2016," 290,000 ",Cancelled,Customer Y,Turkey,,Industry,No
+100220,31/03/2016," 290,000 ",Lost,Customer Y,Oman,Competitor A,Transportation,No
+100221,31/03/2017," 290,000 ",Lost,Customer X,Oman,Competitor A,Utility,Yes
+100222,31/03/2016," 2,000 ",Lost,Customer X,Czech Republic,Competitor C,Industry,No
+100223,31/03/2016," 200,000 ",Lost,Customer X,Oman,Competitor A,Utility,No
+100224,31/12/2016," 4,000 ",Lost,Customer X,Czech Republic,Competitor A,Utility,No
+100225,31/03/2017," 200,000 ",Lost,Customer Z,Australia,Competitor C,Industry,No
+100226,30/06/2017," 150,000 ",Lost,Customer Z,Turkey,Competitor C,Utility,No
+100227,30/06/2017," 50,000 ",Lost,Customer Z,Portugal,Competitor A,Utility,Yes
+100228,30/06/2016," 300,000 ",Lost,Customer X,Italy,Competitor A,Transportation,No
+100229,31/12/2017," 1,000,000 ",Lead,Customer X,Norway,,Industry,No
+100230,31/12/2016," 140,000 ",Lost,Customer Y,Finland,Competitor B,Industry,No
+100231,30/09/2016," 20,000 ",Lost,Customer Y,Portugal,Competitor A,Transportation,No
+100232,31/03/2017," 110,000 ",Cancelled,Customer Y,"Korea, Republic of",,Industry,No
+100233,31/03/2017," 4,000 ",Won,Customer Y,Sweden,ABB,Industry,No
+100234,31/03/2017," 10,000 ",Cancelled,Customer Y,Saudi Arabia,,Utility,No
+100235,31/03/2016," 15,000 ",Cancelled,Customer Z,Czech Republic,,Industry,No
+100236,30/06/2017," 20,000 ",Cancelled,Customer X,Sweden,,Industry,No
+100237,31/03/2017," 50,000 ",Lead,Customer X,Bosnia and Herzegovina,,Industry,No
+100238,31/12/2017," 500,000 ",Negotiation,Customer X,Colombia,,Utility,No
+100239,31/12/2017," 20,000 ",Pursuit,Customer Y,Finland,,Transportation,No
+100240,31/12/2017," 15,000 ",Negotiation,Customer Y,Kuwait,,Utility,No
